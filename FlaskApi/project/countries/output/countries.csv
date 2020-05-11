@@ -1,0 +1,251 @@
+,name,capital,region,lat,long,population,alpha3Code
+0,Afghanistan,Kabul,Asia,33.0,65.0,27657145,AFG
+1,Åland Islands,Mariehamn,Europe,60.116667,19.9,28875,ALA
+2,Albania,Tirana,Europe,41.0,20.0,2886026,ALB
+3,Algeria,Algiers,Africa,28.0,3.0,40400000,DZA
+4,American Samoa,Pago Pago,Oceania,-14.33333333,-170.0,57100,ASM
+5,Andorra,Andorra la Vella,Europe,42.5,1.5,78014,AND
+6,Angola,Luanda,Africa,-12.5,18.5,25868000,AGO
+7,Anguilla,The Valley,Americas,18.25,-63.16666666,13452,AIA
+8,Antarctica,,Polar,-74.65,4.48,1000,ATA
+9,Antigua and Barbuda,Saint John's,Americas,17.05,-61.8,86295,ATG
+10,Argentina,Buenos Aires,Americas,-34.0,-64.0,43590400,ARG
+11,Armenia,Yerevan,Asia,40.0,45.0,2994400,ARM
+12,Aruba,Oranjestad,Americas,12.5,-69.96666666,107394,ABW
+13,Australia,Canberra,Oceania,-27.0,133.0,24117360,AUS
+14,Austria,Vienna,Europe,47.33333333,13.33333333,8725931,AUT
+15,Azerbaijan,Baku,Asia,40.5,47.5,9730500,AZE
+16,Bahamas,Nassau,Americas,24.25,-76.0,378040,BHS
+17,Bahrain,Manama,Asia,26.0,50.55,1404900,BHR
+18,Bangladesh,Dhaka,Asia,24.0,90.0,161006790,BGD
+19,Barbados,Bridgetown,Americas,13.16666666,-59.53333333,285000,BRB
+20,Belarus,Minsk,Europe,53.0,28.0,9498700,BLR
+21,Belgium,Brussels,Europe,50.83333333,4.0,11319511,BEL
+22,Belize,Belmopan,Americas,17.25,-88.75,370300,BLZ
+23,Benin,Porto-Novo,Africa,9.5,2.25,10653654,BEN
+24,Bermuda,Hamilton,Americas,32.33333333,-64.75,61954,BMU
+25,Bhutan,Thimphu,Asia,27.5,90.5,775620,BTN
+26,Bolivia (Plurinational State of),Sucre,Americas,-17.0,-65.0,10985059,BOL
+27,"Bonaire, Sint Eustatius and Saba",Kralendijk,Americas,12.15,-68.266667,17408,BES
+28,Bosnia and Herzegovina,Sarajevo,Europe,44.0,18.0,3531159,BIH
+29,Botswana,Gaborone,Africa,-22.0,24.0,2141206,BWA
+30,Bouvet Island,,,-54.43333333,3.4,0,BVT
+31,Brazil,Brasília,Americas,-10.0,-55.0,206135893,BRA
+32,British Indian Ocean Territory,Diego Garcia,Africa,-6.0,71.5,3000,IOT
+33,United States Minor Outlying Islands,,Americas,,,300,UMI
+34,Virgin Islands (British),Road Town,Americas,18.431383,-64.62305,28514,VGB
+35,Virgin Islands (U.S.),Charlotte Amalie,Americas,18.34,-64.93,114743,VIR
+36,Brunei Darussalam,Bandar Seri Begawan,Asia,4.5,114.66666666,411900,BRN
+37,Bulgaria,Sofia,Europe,43.0,25.0,7153784,BGR
+38,Burkina Faso,Ouagadougou,Africa,13.0,-2.0,19034397,BFA
+39,Burundi,Bujumbura,Africa,-3.5,30.0,10114505,BDI
+40,Cambodia,Phnom Penh,Asia,13.0,105.0,15626444,KHM
+41,Cameroon,Yaoundé,Africa,6.0,12.0,22709892,CMR
+42,Canada,Ottawa,Americas,60.0,-95.0,36155487,CAN
+43,Cabo Verde,Praia,Africa,16.0,-24.0,531239,CPV
+44,Cayman Islands,George Town,Americas,19.5,-80.5,58238,CYM
+45,Central African Republic,Bangui,Africa,7.0,21.0,4998000,CAF
+46,Chad,N'Djamena,Africa,15.0,19.0,14497000,TCD
+47,Chile,Santiago,Americas,-30.0,-71.0,18191900,CHL
+48,China,Beijing,Asia,35.0,105.0,1377422166,CHN
+49,Christmas Island,Flying Fish Cove,Oceania,-10.5,105.66666666,2072,CXR
+50,Cocos (Keeling) Islands,West Island,Oceania,-12.5,96.83333333,550,CCK
+51,Colombia,Bogotá,Americas,4.0,-72.0,48759958,COL
+52,Comoros,Moroni,Africa,-12.16666666,44.25,806153,COM
+53,Congo,Brazzaville,Africa,-1.0,15.0,4741000,COG
+54,Congo (Democratic Republic of the),Kinshasa,Africa,0.0,25.0,85026000,COD
+55,Cook Islands,Avarua,Oceania,-21.23333333,-159.76666666,18100,COK
+56,Costa Rica,San José,Americas,10.0,-84.0,4890379,CRI
+57,Croatia,Zagreb,Europe,45.16666666,15.5,4190669,HRV
+58,Cuba,Havana,Americas,21.5,-80.0,11239004,CUB
+59,Curaçao,Willemstad,Americas,12.116667,-68.933333,154843,CUW
+60,Cyprus,Nicosia,Europe,35.0,33.0,847000,CYP
+61,Czech Republic,Prague,Europe,49.75,15.5,10558524,CZE
+62,Denmark,Copenhagen,Europe,56.0,10.0,5717014,DNK
+63,Djibouti,Djibouti,Africa,11.5,43.0,900000,DJI
+64,Dominica,Roseau,Americas,15.41666666,-61.33333333,71293,DMA
+65,Dominican Republic,Santo Domingo,Americas,19.0,-70.66666666,10075045,DOM
+66,Ecuador,Quito,Americas,-2.0,-77.5,16545799,ECU
+67,Egypt,Cairo,Africa,27.0,30.0,91290000,EGY
+68,El Salvador,San Salvador,Americas,13.83333333,-88.91666666,6520675,SLV
+69,Equatorial Guinea,Malabo,Africa,2.0,10.0,1222442,GNQ
+70,Eritrea,Asmara,Africa,15.0,39.0,5352000,ERI
+71,Estonia,Tallinn,Europe,59.0,26.0,1315944,EST
+72,Ethiopia,Addis Ababa,Africa,8.0,38.0,92206005,ETH
+73,Falkland Islands (Malvinas),Stanley,Americas,-51.75,-59.0,2563,FLK
+74,Faroe Islands,Tórshavn,Europe,62.0,-7.0,49376,FRO
+75,Fiji,Suva,Oceania,-18.0,175.0,867000,FJI
+76,Finland,Helsinki,Europe,64.0,26.0,5491817,FIN
+77,France,Paris,Europe,46.0,2.0,66710000,FRA
+78,French Guiana,Cayenne,Americas,4.0,-53.0,254541,GUF
+79,French Polynesia,Papeetē,Oceania,-15.0,-140.0,271800,PYF
+80,French Southern Territories,Port-aux-Français,Africa,-49.25,69.167,140,ATF
+81,Gabon,Libreville,Africa,-1.0,11.75,1802278,GAB
+82,Gambia,Banjul,Africa,13.46666666,-16.56666666,1882450,GMB
+83,Georgia,Tbilisi,Asia,42.0,43.5,3720400,GEO
+84,Germany,Berlin,Europe,51.0,9.0,81770900,DEU
+85,Ghana,Accra,Africa,8.0,-2.0,27670174,GHA
+86,Gibraltar,Gibraltar,Europe,36.13333333,-5.35,33140,GIB
+87,Greece,Athens,Europe,39.0,22.0,10858018,GRC
+88,Greenland,Nuuk,Americas,72.0,-40.0,55847,GRL
+89,Grenada,St. George's,Americas,12.11666666,-61.66666666,103328,GRD
+90,Guadeloupe,Basse-Terre,Americas,16.25,-61.583333,400132,GLP
+91,Guam,Hagåtña,Oceania,13.46666666,144.78333333,184200,GUM
+92,Guatemala,Guatemala City,Americas,15.5,-90.25,16176133,GTM
+93,Guernsey,St. Peter Port,Europe,49.46666666,-2.58333333,62999,GGY
+94,Guinea,Conakry,Africa,11.0,-10.0,12947000,GIN
+95,Guinea-Bissau,Bissau,Africa,12.0,-15.0,1547777,GNB
+96,Guyana,Georgetown,Americas,5.0,-59.0,746900,GUY
+97,Haiti,Port-au-Prince,Americas,19.0,-72.41666666,11078033,HTI
+98,Heard Island and McDonald Islands,,,-53.1,72.51666666,0,HMD
+99,Holy See,Rome,Europe,41.9,12.45,451,VAT
+100,Honduras,Tegucigalpa,Americas,15.0,-86.5,8576532,HND
+101,Hong Kong,City of Victoria,Asia,22.25,114.16666666,7324300,HKG
+102,Hungary,Budapest,Europe,47.0,20.0,9823000,HUN
+103,Iceland,Reykjavík,Europe,65.0,-18.0,334300,ISL
+104,India,New Delhi,Asia,20.0,77.0,1295210000,IND
+105,Indonesia,Jakarta,Asia,-5.0,120.0,258705000,IDN
+106,Côte d'Ivoire,Yamoussoukro,Africa,8.0,-5.0,22671331,CIV
+107,Iran (Islamic Republic of),Tehran,Asia,32.0,53.0,79369900,IRN
+108,Iraq,Baghdad,Asia,33.0,44.0,37883543,IRQ
+109,Ireland,Dublin,Europe,53.0,-8.0,6378000,IRL
+110,Isle of Man,Douglas,Europe,54.25,-4.5,84497,IMN
+111,Israel,Jerusalem,Asia,31.5,34.75,8527400,ISR
+112,Italy,Rome,Europe,42.83333333,12.83333333,60665551,ITA
+113,Jamaica,Kingston,Americas,18.25,-77.5,2723246,JAM
+114,Japan,Tokyo,Asia,36.0,138.0,126960000,JPN
+115,Jersey,Saint Helier,Europe,49.25,-2.16666666,100800,JEY
+116,Jordan,Amman,Asia,31.0,36.0,9531712,JOR
+117,Kazakhstan,Astana,Asia,48.0,68.0,17753200,KAZ
+118,Kenya,Nairobi,Africa,1.0,38.0,47251000,KEN
+119,Kiribati,South Tarawa,Oceania,1.41666666,173.0,113400,KIR
+120,Kuwait,Kuwait City,Asia,29.5,45.75,4183658,KWT
+121,Kyrgyzstan,Bishkek,Asia,41.0,75.0,6047800,KGZ
+122,Lao People's Democratic Republic,Vientiane,Asia,18.0,105.0,6492400,LAO
+123,Latvia,Riga,Europe,57.0,25.0,1961600,LVA
+124,Lebanon,Beirut,Asia,33.83333333,35.83333333,5988000,LBN
+125,Lesotho,Maseru,Africa,-29.5,28.5,1894194,LSO
+126,Liberia,Monrovia,Africa,6.5,-9.5,4615000,LBR
+127,Libya,Tripoli,Africa,25.0,17.0,6385000,LBY
+128,Liechtenstein,Vaduz,Europe,47.26666666,9.53333333,37623,LIE
+129,Lithuania,Vilnius,Europe,56.0,24.0,2872294,LTU
+130,Luxembourg,Luxembourg,Europe,49.75,6.16666666,576200,LUX
+131,Macao,,Asia,22.16666666,113.55,649100,MAC
+132,Macedonia (the former Yugoslav Republic of),Skopje,Europe,41.83333333,22.0,2058539,MKD
+133,Madagascar,Antananarivo,Africa,-20.0,47.0,22434363,MDG
+134,Malawi,Lilongwe,Africa,-13.5,34.0,16832910,MWI
+135,Malaysia,Kuala Lumpur,Asia,2.5,112.5,31405416,MYS
+136,Maldives,Malé,Asia,3.25,73.0,344023,MDV
+137,Mali,Bamako,Africa,17.0,-4.0,18135000,MLI
+138,Malta,Valletta,Europe,35.83333333,14.58333333,425384,MLT
+139,Marshall Islands,Majuro,Oceania,9.0,168.0,54880,MHL
+140,Martinique,Fort-de-France,Americas,14.666667,-61.0,378243,MTQ
+141,Mauritania,Nouakchott,Africa,20.0,-12.0,3718678,MRT
+142,Mauritius,Port Louis,Africa,-20.28333333,57.55,1262879,MUS
+143,Mayotte,Mamoudzou,Africa,-12.83333333,45.16666666,226915,MYT
+144,Mexico,Mexico City,Americas,23.0,-102.0,122273473,MEX
+145,Micronesia (Federated States of),Palikir,Oceania,6.91666666,158.25,102800,FSM
+146,Moldova (Republic of),Chișinău,Europe,47.0,29.0,3553100,MDA
+147,Monaco,Monaco,Europe,43.73333333,7.4,38400,MCO
+148,Mongolia,Ulan Bator,Asia,46.0,105.0,3093100,MNG
+149,Montenegro,Podgorica,Europe,42.5,19.3,621810,MNE
+150,Montserrat,Plymouth,Americas,16.75,-62.2,4922,MSR
+151,Morocco,Rabat,Africa,32.0,-5.0,33337529,MAR
+152,Mozambique,Maputo,Africa,-18.25,35.0,26423700,MOZ
+153,Myanmar,Naypyidaw,Asia,22.0,98.0,51419420,MMR
+154,Namibia,Windhoek,Africa,-22.0,17.0,2324388,NAM
+155,Nauru,Yaren,Oceania,-0.53333333,166.91666666,10084,NRU
+156,Nepal,Kathmandu,Asia,28.0,84.0,28431500,NPL
+157,Netherlands,Amsterdam,Europe,52.5,5.75,17019800,NLD
+158,New Caledonia,Nouméa,Oceania,-21.5,165.5,268767,NCL
+159,New Zealand,Wellington,Oceania,-41.0,174.0,4697854,NZL
+160,Nicaragua,Managua,Americas,13.0,-85.0,6262703,NIC
+161,Niger,Niamey,Africa,16.0,8.0,20715000,NER
+162,Nigeria,Abuja,Africa,10.0,8.0,186988000,NGA
+163,Niue,Alofi,Oceania,-19.03333333,-169.86666666,1470,NIU
+164,Norfolk Island,Kingston,Oceania,-29.03333333,167.95,2302,NFK
+165,Korea (Democratic People's Republic of),Pyongyang,Asia,40.0,127.0,25281000,PRK
+166,Northern Mariana Islands,Saipan,Oceania,15.2,145.75,56940,MNP
+167,Norway,Oslo,Europe,62.0,10.0,5223256,NOR
+168,Oman,Muscat,Asia,21.0,57.0,4420133,OMN
+169,Pakistan,Islamabad,Asia,30.0,70.0,194125062,PAK
+170,Palau,Ngerulmud,Oceania,7.5,134.5,17950,PLW
+171,"Palestine, State of",Ramallah,Asia,31.9,35.2,4682467,PSE
+172,Panama,Panama City,Americas,9.0,-80.0,3814672,PAN
+173,Papua New Guinea,Port Moresby,Oceania,-6.0,147.0,8083700,PNG
+174,Paraguay,Asunción,Americas,-23.0,-58.0,6854536,PRY
+175,Peru,Lima,Americas,-10.0,-76.0,31488700,PER
+176,Philippines,Manila,Asia,13.0,122.0,103279800,PHL
+177,Pitcairn,Adamstown,Oceania,-25.06666666,-130.1,56,PCN
+178,Poland,Warsaw,Europe,52.0,20.0,38437239,POL
+179,Portugal,Lisbon,Europe,39.5,-8.0,10374822,PRT
+180,Puerto Rico,San Juan,Americas,18.25,-66.5,3474182,PRI
+181,Qatar,Doha,Asia,25.5,51.25,2587564,QAT
+182,Republic of Kosovo,Pristina,Europe,42.666667,21.166667,1733842,KOS
+183,Réunion,Saint-Denis,Africa,-21.15,55.5,840974,REU
+184,Romania,Bucharest,Europe,46.0,25.0,19861408,ROU
+185,Russian Federation,Moscow,Europe,60.0,100.0,146599183,RUS
+186,Rwanda,Kigali,Africa,-2.0,30.0,11553188,RWA
+187,Saint Barthélemy,Gustavia,Americas,18.5,-63.41666666,9417,BLM
+188,"Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,-15.95,-5.7,4255,SHN
+189,Saint Kitts and Nevis,Basseterre,Americas,17.33333333,-62.75,46204,KNA
+190,Saint Lucia,Castries,Americas,13.88333333,-60.96666666,186000,LCA
+191,Saint Martin (French part),Marigot,Americas,18.08333333,-63.95,36979,MAF
+192,Saint Pierre and Miquelon,Saint-Pierre,Americas,46.83333333,-56.33333333,6069,SPM
+193,Saint Vincent and the Grenadines,Kingstown,Americas,13.25,-61.2,109991,VCT
+194,Samoa,Apia,Oceania,-13.58333333,-172.33333333,194899,WSM
+195,San Marino,City of San Marino,Europe,43.76666666,12.41666666,33005,SMR
+196,Sao Tome and Principe,São Tomé,Africa,1.0,7.0,187356,STP
+197,Saudi Arabia,Riyadh,Asia,25.0,45.0,32248200,SAU
+198,Senegal,Dakar,Africa,14.0,-14.0,14799859,SEN
+199,Serbia,Belgrade,Europe,44.0,21.0,7076372,SRB
+200,Seychelles,Victoria,Africa,-4.58333333,55.66666666,91400,SYC
+201,Sierra Leone,Freetown,Africa,8.5,-11.5,7075641,SLE
+202,Singapore,Singapore,Asia,1.36666666,103.8,5535000,SGP
+203,Sint Maarten (Dutch part),Philipsburg,Americas,18.033333,-63.05,38247,SXM
+204,Slovakia,Bratislava,Europe,48.66666666,19.5,5426252,SVK
+205,Slovenia,Ljubljana,Europe,46.11666666,14.81666666,2064188,SVN
+206,Solomon Islands,Honiara,Oceania,-8.0,159.0,642000,SLB
+207,Somalia,Mogadishu,Africa,10.0,49.0,11079000,SOM
+208,South Africa,Pretoria,Africa,-29.0,24.0,55653654,ZAF
+209,South Georgia and the South Sandwich Islands,King Edward Point,Americas,-54.5,-37.0,30,SGS
+210,Korea (Republic of),Seoul,Asia,37.0,127.5,50801405,KOR
+211,South Sudan,Juba,Africa,7.0,30.0,12131000,SSD
+212,Spain,Madrid,Europe,40.0,-4.0,46438422,ESP
+213,Sri Lanka,Colombo,Asia,7.0,81.0,20966000,LKA
+214,Sudan,Khartoum,Africa,15.0,30.0,39598700,SDN
+215,Suriname,Paramaribo,Americas,4.0,-56.0,541638,SUR
+216,Svalbard and Jan Mayen,Longyearbyen,Europe,78.0,20.0,2562,SJM
+217,Swaziland,Lobamba,Africa,-26.5,31.5,1132657,SWZ
+218,Sweden,Stockholm,Europe,62.0,15.0,9894888,SWE
+219,Switzerland,Bern,Europe,47.0,8.0,8341600,CHE
+220,Syrian Arab Republic,Damascus,Asia,35.0,38.0,18564000,SYR
+221,Taiwan,Taipei,Asia,23.5,121.0,23503349,TWN
+222,Tajikistan,Dushanbe,Asia,39.0,71.0,8593600,TJK
+223,"Tanzania, United Republic of",Dodoma,Africa,-6.0,35.0,55155000,TZA
+224,Thailand,Bangkok,Asia,15.0,100.0,65327652,THA
+225,Timor-Leste,Dili,Asia,-8.83333333,125.91666666,1167242,TLS
+226,Togo,Lomé,Africa,8.0,1.16666666,7143000,TGO
+227,Tokelau,Fakaofo,Oceania,-9.0,-172.0,1411,TKL
+228,Tonga,Nuku'alofa,Oceania,-20.0,-175.0,103252,TON
+229,Trinidad and Tobago,Port of Spain,Americas,11.0,-61.0,1349667,TTO
+230,Tunisia,Tunis,Africa,34.0,9.0,11154400,TUN
+231,Turkey,Ankara,Asia,39.0,35.0,78741053,TUR
+232,Turkmenistan,Ashgabat,Asia,40.0,60.0,4751120,TKM
+233,Turks and Caicos Islands,Cockburn Town,Americas,21.75,-71.58333333,31458,TCA
+234,Tuvalu,Funafuti,Oceania,-8.0,178.0,10640,TUV
+235,Uganda,Kampala,Africa,1.0,32.0,33860700,UGA
+236,Ukraine,Kiev,Europe,49.0,32.0,42692393,UKR
+237,United Arab Emirates,Abu Dhabi,Asia,24.0,54.0,9856000,ARE
+238,United Kingdom of Great Britain and Northern Ireland,London,Europe,54.0,-2.0,65110000,GBR
+239,United States of America,"Washington, D.C.",Americas,38.0,-97.0,323947000,USA
+240,Uruguay,Montevideo,Americas,-33.0,-56.0,3480222,URY
+241,Uzbekistan,Tashkent,Asia,41.0,64.0,31576400,UZB
+242,Vanuatu,Port Vila,Oceania,-16.0,167.0,277500,VUT
+243,Venezuela (Bolivarian Republic of),Caracas,Americas,8.0,-66.0,31028700,VEN
+244,Viet Nam,Hanoi,Asia,16.16666666,107.83333333,92700000,VNM
+245,Wallis and Futuna,Mata-Utu,Oceania,-13.3,-176.2,11750,WLF
+246,Western Sahara,El Aaiún,Africa,24.5,-13.0,510713,ESH
+247,Yemen,Sana'a,Asia,15.0,48.0,27478000,YEM
+248,Zambia,Lusaka,Africa,-15.0,30.0,15933883,ZMB
+249,Zimbabwe,Harare,Africa,-20.0,30.0,14240168,ZWE
