@@ -3,7 +3,7 @@
 
 pip install -r requirements.txt
 
-### serve back-end at localhost:5000
+### Run at localhost:5000
 python main.py
 
 ### Run tests
