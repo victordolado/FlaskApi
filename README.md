@@ -32,7 +32,8 @@
  
   * **URL**: /api/v1/countries/population
   * **PRE**: Needs login
-  * **Return**: {"country_name": "population"}
+  * **Return**: 
+    {"countries and population":{"country_name": "population"}}
   
   
  ### External API, Create CSV file with the next columns (call to https://restcountries.eu/rest/v2/all):
