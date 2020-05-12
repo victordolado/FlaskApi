@@ -14,28 +14,28 @@
   * **Input**: Username or email, Password
   * **Example**: {"username" : "victor", "password" : "pass", "email" : "victor@gmail.com"}
 
-## Logout (JWT) - Revoke token
+### Logout (JWT) - Revoke token
 
   * **URL**: /api/v1/logout
   * **PRE**: Needs login
   * **Input**: Username or email Password
   * **Example**: {"username" : "victor", "password" : "pass", "email" : "victor@gmail.com"}
  
-## Load csv file:
+### Load csv file:
 
   * **URL**: /api/v1/upload
   * **PRE**: Needs login
   * **Input**: csv file
-  * **csv file format**: resources/registros.csv
+  * **CSV file format**: resources/registros.csv
  
- ## External API, call to (call to https://restcountries.eu/rest/v2/all):
+ ### External API, call to (call to https://restcountries.eu/rest/v2/all):
  
   * **URL**: /api/v1/countries/population
   * **PRE**: Needs login
   * **Return**: {"country_name": "population"}
   
   
- ## External API, Create CSV file with the next columns (call to https://restcountries.eu/rest/v2/all):
+ ### External API, Create CSV file with the next columns (call to https://restcountries.eu/rest/v2/all):
   
   * **URL**: /api/v1/countries/csv
   * **PRE**: Needs login
@@ -49,7 +49,7 @@
       * alpha3Code
   * **Example**: project/countries/output/countries.csv
  
- ## External API, Create PDF file with the next columns in a table (call to https://restcountries.eu/rest/v2/all):
+ ### External API, Create PDF file with the next columns in a table (call to https://restcountries.eu/rest/v2/all):
   
   * **URL**: /api/v1/countries/pdf
   * **PRE**: Needs login
